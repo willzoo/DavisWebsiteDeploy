@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/willzoo/DavisWebsite/static/css/main.62329fe6.css",
+    "main.js": "/willzoo/DavisWebsite/static/js/main.242a7bda.js",
+    "static/js/787.45007377.chunk.js": "/willzoo/DavisWebsite/static/js/787.45007377.chunk.js",
+    "static/media/ben t davis.jpg": "/willzoo/DavisWebsite/static/media/ben t davis.03b7debda343a01b760c.jpg",
+    "index.html": "/willzoo/DavisWebsite/index.html",
+    "main.62329fe6.css.map": "/willzoo/DavisWebsite/static/css/main.62329fe6.css.map",
+    "main.242a7bda.js.map": "/willzoo/DavisWebsite/static/js/main.242a7bda.js.map",
+    "787.45007377.chunk.js.map": "/willzoo/DavisWebsite/static/js/787.45007377.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62329fe6.css",
+    "static/js/main.242a7bda.js"
+  ]
+}
