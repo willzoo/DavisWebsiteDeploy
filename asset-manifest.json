@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DavisWebsiteDeploy/static/css/main.dfbb713a.css",
-    "main.js": "/DavisWebsiteDeploy/static/js/main.145751a1.js",
+    "main.css": "/DavisWebsiteDeploy/static/css/main.feb32ff4.css",
+    "main.js": "/DavisWebsiteDeploy/static/js/main.6c542025.js",
     "static/js/787.45007377.chunk.js": "/DavisWebsiteDeploy/static/js/787.45007377.chunk.js",
     "static/media/ben t davis.jpg": "/DavisWebsiteDeploy/static/media/ben t davis.03b7debda343a01b760c.jpg",
     "index.html": "/DavisWebsiteDeploy/index.html",
-    "main.dfbb713a.css.map": "/DavisWebsiteDeploy/static/css/main.dfbb713a.css.map",
-    "main.145751a1.js.map": "/DavisWebsiteDeploy/static/js/main.145751a1.js.map",
+    "main.feb32ff4.css.map": "/DavisWebsiteDeploy/static/css/main.feb32ff4.css.map",
+    "main.6c542025.js.map": "/DavisWebsiteDeploy/static/js/main.6c542025.js.map",
     "787.45007377.chunk.js.map": "/DavisWebsiteDeploy/static/js/787.45007377.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfbb713a.css",
-    "static/js/main.145751a1.js"
+    "static/css/main.feb32ff4.css",
+    "static/js/main.6c542025.js"
   ]
 }
