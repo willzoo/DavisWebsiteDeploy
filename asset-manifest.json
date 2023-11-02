@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DavisWebsite/static/css/main.a0e40d2d.css",
-    "main.js": "/DavisWebsite/static/js/main.2734eb07.js",
-    "static/js/787.45007377.chunk.js": "/DavisWebsite/static/js/787.45007377.chunk.js",
-    "static/media/ben t davis.jpg": "/DavisWebsite/static/media/ben t davis.03b7debda343a01b760c.jpg",
-    "index.html": "/DavisWebsite/index.html",
-    "main.a0e40d2d.css.map": "/DavisWebsite/static/css/main.a0e40d2d.css.map",
-    "main.2734eb07.js.map": "/DavisWebsite/static/js/main.2734eb07.js.map",
-    "787.45007377.chunk.js.map": "/DavisWebsite/static/js/787.45007377.chunk.js.map"
+    "main.css": "/DavisWebsiteDeploy/static/css/main.dfbb713a.css",
+    "main.js": "/DavisWebsiteDeploy/static/js/main.145751a1.js",
+    "static/js/787.45007377.chunk.js": "/DavisWebsiteDeploy/static/js/787.45007377.chunk.js",
+    "static/media/ben t davis.jpg": "/DavisWebsiteDeploy/static/media/ben t davis.03b7debda343a01b760c.jpg",
+    "index.html": "/DavisWebsiteDeploy/index.html",
+    "main.dfbb713a.css.map": "/DavisWebsiteDeploy/static/css/main.dfbb713a.css.map",
+    "main.145751a1.js.map": "/DavisWebsiteDeploy/static/js/main.145751a1.js.map",
+    "787.45007377.chunk.js.map": "/DavisWebsiteDeploy/static/js/787.45007377.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0e40d2d.css",
-    "static/js/main.2734eb07.js"
+    "static/css/main.dfbb713a.css",
+    "static/js/main.145751a1.js"
   ]
 }
